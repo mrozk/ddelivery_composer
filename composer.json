@@ -4,7 +4,7 @@
     "minimum-stability": "dev",
     "license": "proprietary",
     "keywords": ["delivery"],
-    "homepage": "https://github.com/mrozk/ddeliverytest/",
+    "homepage": "https://github.com/mrozk/ddelivery_composer/",
     "authors": [
         {
             "name": "ddelivery",
