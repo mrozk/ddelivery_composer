@@ -1173,6 +1173,7 @@ use DDelivery\Order\DDeliveryOrder;
          */
         public function render($request)
         {
+            echo 'ozk';
             if(isset($request['iframe'])) {
                 $staticURL = $this->shop->getStaticPath();
                 $styleUrl = $this->shop->getStaticPath() . 'tems/' . $this->shop->getTemplate() . '/';
